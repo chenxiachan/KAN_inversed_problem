@@ -1,0 +1,8 @@
+
+numpy==2.3.5
+pandas==2.3.3
+pykan==0.0.5
+scikit_learn==1.8.0
+scipy==1.16.3
+sympy==1.14.0
+torch==2.8.0
